@@ -1,6 +1,4 @@
 # Responsive Halloween Website 🎃
-## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
-### Responsive Halloween Website 🎃
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
